@@ -20,7 +20,7 @@
     "ignoreCommand": ["emojireply.js"]
   },
   
-  "adminBot": [
+  "adminBot": [61565890487420
     "100014754734049",
     "100085332887575",
     "61552591230081"
@@ -33,8 +33,8 @@
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "‌♡your baby♡",
-  "prefix": "!",
+  "nickNameBot": "‌♡your baby♡",pradox
+  "prefix": "!",bot prefix
   "api": "https://mahabub-apis.fun",
   "database": {
     "type": "mongodb",
